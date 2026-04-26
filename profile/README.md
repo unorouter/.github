@@ -6,7 +6,7 @@ Cheap, fast access to frontier AI models. Entire gateway stack open source.
 
 ## Why
 
-Most AI gateways are black boxes, and a lot of resold "Claude" / "GPT" isn't what it claims to be (we caught 183 spoofed channels across 8 resellers in 17 days, [writeup](https://github.com/unorouter/new-api-sync/tree/main/docs)).
+Most AI gateways are black boxes, and a lot of resold "Claude" / "GPT" isn't what it claims to be (we caught 183 spoofed channels across 8 resellers in 17 days, [writeup](https://unorouter.ai/blog/claude-authenticity)).
 
 We built it differently:
 
