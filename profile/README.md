@@ -10,7 +10,7 @@ Most AI gateways are black boxes, and a lot of resold "Claude" / "GPT" isn't wha
 
 We built it differently:
 
-- **Open architecture.** Every layer is in this org, MIT-licensed.
+- **Open architecture.** Every layer is in this org, Open Source.
 - **Authenticity by default.** Channels probed continuously, fakes auto-demoted. [Probe code is public.](https://github.com/unorouter/new-api-sync/blob/main/src/core/models/testing/authenticity.ts)
 - **Honest pricing.** Upstream cost plus a thin margin.
 
