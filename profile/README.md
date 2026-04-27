@@ -1,6 +1,6 @@
 # UnoRouter
 
-Cheap, fast access to frontier AI models. Entire gateway stack open source.
+AI Provider thats actually Open, Cheap, fast access to frontier AI models. Entire gateway stack open source.
 
 [unorouter.ai](https://unorouter.ai) | [support@unorouter.ai](mailto:support@unorouter.ai)
 
