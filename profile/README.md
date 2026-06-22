@@ -6,7 +6,7 @@ AI Provider thats actually Open, Cheap, fast access to frontier AI models. Entir
 
 ## Why
 
-Most AI gateways are black boxes, and a lot of resold "Claude" / "GPT" isn't what it claims to be (we caught 183 spoofed channels across 8 resellers in 17 days, [writeup](https://unorouter.ai/blog/claude-authenticity)).
+Most AI gateways are black boxes, and a lot of resold "Claude" / "GPT" isn't what it claims to be (we caught 183 spoofed channels across 8 resellers in 17 days, [writeup](https://unorouter.com/blog/claude-authenticity)).
 
 We built it differently:
 
@@ -27,4 +27,4 @@ providers -> new-api-sync / sub2api -> new-api -> unorouter
 | [unorouter](https://github.com/unorouter/unorouter)       | Storefront at unorouter.ai.                             |
 | [sub2api](https://github.com/unorouter/sub2api)           | Personal subscription accounts wrapped as API endpoints.|
 
-[Try the free tier](https://unorouter.ai), no card. File a real bug or a shipped feature request and we top up your credit.
+[Try the free tier](https://unorouter.com), no card. File a real bug or a shipped feature request and we top up your credit.
