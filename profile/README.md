@@ -17,14 +17,14 @@ We built it differently:
 ## Stack
 
 ```
-providers -> new-api-sync / sub2api -> new-api -> unorouter
+providers -> new-api-sync -> new-api -> unorouter
 ```
 
 | Repo                                                      | What it does                                            |
 | --------------------------------------------------------- | ------------------------------------------------------- |
 | [new-api](https://github.com/unorouter/new-api)           | Core relay: 35+ adapters, auth, billing, routing.       |
 | [new-api-sync](https://github.com/unorouter/new-api-sync) | Discovers, prices, tests, syncs channels. Probe suite.  |
-| [unorouter](https://github.com/unorouter/unorouter)       | Storefront at unorouter.ai.                             |
-| [sub2api](https://github.com/unorouter/sub2api)           | Personal subscription accounts wrapped as API endpoints.|
+| [unorouter](https://github.com/unorouter/unorouter)       | Storefront and chat app at unorouter.com.               |
+| [infra](https://github.com/unorouter/infra)               | Everything it runs on: k3s, ArgoCD, Teleport, monitoring.|
 
 [Try the free tier](https://unorouter.com), no card. File a real bug or a shipped feature request and we top up your credit.
